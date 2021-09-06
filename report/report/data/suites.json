@@ -1,0 +1,86 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_func01",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "login01",
+          "uid" : "89f22035a09c6212",
+          "parentUid" : "d82945abccbcc5467ee14482c311b92a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629563504997,
+            "stop" : 1629563504997,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1", "2" ]
+        }, {
+          "name" : "login01",
+          "uid" : "97b76cd505c882b8",
+          "parentUid" : "d82945abccbcc5467ee14482c311b92a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629563505000,
+            "stop" : 1629563505001,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "3", "4" ]
+        }, {
+          "name" : "login01",
+          "uid" : "5779059690c3887f",
+          "parentUid" : "d82945abccbcc5467ee14482c311b92a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629563505002,
+            "stop" : 1629563505002,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "5", "6" ]
+        }, {
+          "name" : "login02",
+          "uid" : "d7c50e8ad6c0af62",
+          "parentUid" : "d82945abccbcc5467ee14482c311b92a",
+          "status" : "failed",
+          "time" : {
+            "start" : 1629563505005,
+            "stop" : 1629563505005,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d82945abccbcc5467ee14482c311b92a"
+      }, {
+        "name" : "TestShopping",
+        "children" : [ {
+          "name" : "shopping01",
+          "uid" : "a2f9fbaee30c5532",
+          "parentUid" : "9c384bfca52857b8bf94bf004028f3de",
+          "status" : "failed",
+          "time" : {
+            "start" : 1629563505025,
+            "stop" : 1629563505026,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9c384bfca52857b8bf94bf004028f3de"
+      } ],
+      "uid" : "8500470757657a07a796dddc783642c5"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

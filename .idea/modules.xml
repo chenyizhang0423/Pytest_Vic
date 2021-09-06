@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/ERS_Interface/.idea/ERS_Interface.iml" filepath="$USER_HOME$/Desktop/ERS_Interface/.idea/ERS_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JGXT_Pytest/.idea/JGXT_Pytest.iml" filepath="$PROJECT_DIR$/../JGXT_Pytest/.idea/JGXT_Pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pytest_Vic.iml" filepath="$PROJECT_DIR$/.idea/Pytest_Vic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SQ_test/.idea/SQ_test.iml" filepath="$PROJECT_DIR$/../SQ_test/.idea/SQ_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytestStu/.idea/pytestStu.iml" filepath="$PROJECT_DIR$/../pytestStu/.idea/pytestStu.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/TestLearn/Pytest/接口强化训练-20200803/接口强化训练-20200803/.idea/teachTest.iml" filepath="$USER_HOME$/Desktop/TestLearn/Pytest/接口强化训练-20200803/接口强化训练-20200803/.idea/teachTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../teach_SqPytest/.idea/teach_sq.iml" filepath="$PROJECT_DIR$/../teach_SqPytest/.idea/teach_sq.iml" />
+    </modules>
+  </component>
+</project>

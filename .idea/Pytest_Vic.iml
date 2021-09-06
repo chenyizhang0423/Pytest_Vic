@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pytestStu" />
+    <orderEntry type="module" module-name="JGXT_Pytest" />
+    <orderEntry type="module" module-name="SQ_test" />
+    <orderEntry type="module" module-name="teachTest" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="teach_sq" />
+    <orderEntry type="module" module-name="ERS_Interface" />
+    <orderEntry type="module" module-name="ERS_Interface" />
+    <orderEntry type="module" module-name="ERS_Interface" />
+  </component>
+</module>

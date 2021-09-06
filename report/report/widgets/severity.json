@@ -1,0 +1,51 @@
+[ {
+  "uid" : "d7c50e8ad6c0af62",
+  "name" : "login02",
+  "time" : {
+    "start" : 1629563505005,
+    "stop" : 1629563505005,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "97b76cd505c882b8",
+  "name" : "login01",
+  "time" : {
+    "start" : 1629563505000,
+    "stop" : 1629563505001,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2f9fbaee30c5532",
+  "name" : "shopping01",
+  "time" : {
+    "start" : 1629563505025,
+    "stop" : 1629563505026,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "89f22035a09c6212",
+  "name" : "login01",
+  "time" : {
+    "start" : 1629563504997,
+    "stop" : 1629563504997,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5779059690c3887f",
+  "name" : "login01",
+  "time" : {
+    "start" : 1629563505002,
+    "stop" : 1629563505002,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
